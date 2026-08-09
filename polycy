@@ -1,0 +1,317 @@
+# Privacy Policy for Pipe Planners
+
+**Last updated: August 9, 2026**
+
+Pipe Planner ("Pipe Planner", "we", "us", or "our") is an application designed to assist with pipe planning, project documentation, inspections, technical drawings, material calculations, and AI-assisted analysis.
+
+This Privacy Policy explains what information Pipe Planner processes, how the information is used and stored, and when information may be processed by third-party service providers.
+
+By using Pipe Planner, you acknowledge the practices described in this Privacy Policy.
+
+## 1. Information We Process
+
+Pipe Planner processes information that users choose to enter, create, record, or upload while using the application.
+
+### Project and Technical Information
+
+Pipe Planner may process and store project-related information, including:
+
+- Project names
+- Project status
+- Technical drawings and blueprints
+- Pipe routes, dimensions, lengths, materials, and fittings
+- Measurements and scale information
+- Water inlet locations
+- Project notes
+- Scheduled dates and deadlines
+- Estimated and actual project costs
+- Labor hours and other project-related information
+- Images and project documentation
+- Material and installation information
+
+Depending on the information entered by the user or contained in uploaded documents and images, project information may include personal information.
+
+### Customer Information
+
+Users may choose to enter customer information as part of a project.
+
+This may include:
+
+- Customer name
+- Address
+- Telephone number
+- Email address
+
+This information is used for project management and documentation purposes.
+
+Pipe Planner does not require users to enter personal information into technical drawings, project names, notes, or other fields unless it is necessary for their intended use of the application.
+
+### Inspection Information
+
+Pipe Planner allows users to create and document inspections.
+
+Inspection information may include:
+
+- Inspection type and date
+- Inspector name
+- Inspection checklist items
+- Inspection status
+- Notes and observations
+- Photographs
+- Recommendations
+- Estimated work hours
+- Urgency level
+- Other inspection-related information
+
+Inspection photographs and notes may contain personal or otherwise identifiable information depending on what the user records.
+
+## 2. Camera and Photo Library
+
+Pipe Planner may request access to the device's camera and photo library.
+
+Camera access may be used to:
+
+- Take photographs during inspections
+- Document projects
+- Photograph drawings or sketches
+- Add photographs to project records
+
+Photo library access may be used to:
+
+- Select existing drawings, blueprints, sketches, or photographs
+- Add images to projects
+- Provide images for AI-assisted analysis
+
+Images added to projects or inspections may be transmitted to Pipe Planner's backend and stored as part of the relevant project or inspection.
+
+Pipe Planner only accesses the camera or photo library when required for functionality initiated by the user and subject to the permissions provided by the device operating system.
+
+## 3. Voice Memos and Microphone Access
+
+Pipe Planner may request access to the device's microphone to allow users to record voice memos associated with projects.
+
+Voice memos are stored locally on the user's device in the current version of Pipe Planner.
+
+The voice memo functionality does not transmit recorded audio to Pipe Planner's backend, MongoDB, or OpenAI.
+
+Local voice memo information may remain on the device until removed through the application, application data is cleared, or the application is uninstalled, depending on the device and operating system.
+
+## 4. Local Storage
+
+Pipe Planner uses local device storage for certain application functionality and preferences.
+
+This may include:
+
+- Voice memo information
+- Material prices or pricing preferences
+- Calculator-related information
+- Other application preferences necessary to provide local functionality
+
+Information stored locally remains on the user's device unless another feature explicitly transmits that information to the backend.
+
+## 5. Backend and Database Storage
+
+Pipe Planner uses a backend service and a MongoDB database to store and manage project and inspection information.
+
+Information stored in the database may include:
+
+- Project information
+- Customer information
+- Technical and pipe-planning data
+- Drawings and blueprints
+- Project photographs
+- Inspection information
+- Inspection photographs
+- Notes and recommendations
+- Scheduling information
+- Labor and cost information
+
+Information is transmitted between the application and the backend as necessary to provide the application's functionality.
+
+The exact information stored depends on how the user uses Pipe Planner and what information the user chooses to enter or upload.
+
+## 6. AI-Assisted Features and OpenAI
+
+Pipe Planner provides optional artificial intelligence features for analyzing technical drawings and sketches and generating planning assistance.
+
+These features use services provided by OpenAI.
+
+When a user chooses to use an AI-assisted feature, information necessary to perform the requested analysis is transmitted to Pipe Planner's backend and then to OpenAI for processing.
+
+Depending on the feature used, this may include:
+
+- Technical drawings
+- Blueprints
+- Hand-drawn sketches
+- Images
+- Project names or other limited project context
+- Measurements or text contained within an uploaded image
+- Handwritten notes visible in a sketch or drawing
+
+AI-assisted features may be used to:
+
+- Analyze room layouts
+- Detect room boundaries
+- Identify plumbing fixtures
+- Interpret handwritten measurements and notes
+- Estimate materials
+- Suggest pipe-planning solutions
+- Generate installation recommendations
+
+Pipe Planner does not automatically transmit all customer information or all information stored in a project to OpenAI.
+
+However, users should be aware that information visible within a drawing, photograph, blueprint, or sketch submitted for AI analysis may be processed by OpenAI. For example, if a drawing contains a person's name, address, telephone number, or other identifiable information, that information may be included as part of the image submitted for analysis.
+
+Users should therefore avoid including unnecessary personal, confidential, or sensitive information in content submitted for AI analysis.
+
+OpenAI processes information according to its applicable terms, policies, and data-processing practices.
+
+## 7. How We Use Information
+
+Pipe Planner processes information as necessary to provide the application's functionality.
+
+Information may be used to:
+
+- Create and manage projects
+- Store and display project information
+- Document pipe layouts and installations
+- Calculate pipe lengths, materials, and fittings
+- Store customer information entered by the user
+- Document inspections
+- Store inspection photographs and notes
+- Manage project schedules and deadlines
+- Calculate or record project costs and labor information
+- Provide AI-assisted drawing and sketch analysis
+- Generate material estimates and recommendations
+- Maintain and operate the application
+- Diagnose technical problems and maintain service reliability
+
+We do not sell users' personal information.
+
+## 8. Analytics, Advertising, and Tracking
+
+The current version of Pipe Planner does not intentionally use third-party advertising networks or behavioral advertising systems.
+
+Based on the current application implementation, Pipe Planner does not use third-party analytics services for tracking user behavior across apps or websites.
+
+Pipe Planner does not use personal information for targeted advertising.
+
+If analytics, advertising, or tracking technologies are introduced in a future version, this Privacy Policy will be updated as appropriate.
+
+## 9. User Accounts
+
+The current version of Pipe Planner does not require a Pipe Planner user account or profile.
+
+Pipe Planner does not currently operate a user registration system through which users create usernames or passwords for the application.
+
+If account functionality is introduced in the future, this Privacy Policy will be updated to explain what account information is collected and how it is processed.
+
+## 10. Third-Party Service Providers
+
+Pipe Planner relies on third-party technology providers to provide certain functionality.
+
+These may include providers of:
+
+- Database infrastructure
+- Backend or application hosting
+- Cloud infrastructure
+- AI processing
+- Application distribution and platform services
+
+In particular, Pipe Planner uses MongoDB technology for database functionality and OpenAI services for optional AI-assisted analysis.
+
+Third-party providers may process information as necessary to provide their respective services and are subject to their own applicable terms, privacy policies, and data-processing practices.
+
+## 11. Data Retention
+
+Project and inspection information may remain stored in Pipe Planner's database while it is required to provide the application's functionality or until it is deleted.
+
+The exact retention period may depend on the type of information, how the application is used, operational requirements, and applicable legal obligations.
+
+Local information, such as voice memo data and certain application preferences, may remain on the user's device until deleted, application data is cleared, or the application is uninstalled, subject to the behavior of the device and operating system.
+
+We may retain information where reasonably necessary to comply with legal obligations, resolve disputes, protect the service, or enforce applicable agreements.
+
+## 12. Data Security
+
+We take reasonable technical and organizational measures intended to protect information processed through Pipe Planner from unauthorized access, alteration, disclosure, or destruction.
+
+However, no application, database, network transmission, or internet-based service can guarantee absolute security.
+
+Users should consider the nature and sensitivity of information before entering or uploading it to Pipe Planner.
+
+Users are also responsible for maintaining appropriate security for their devices and for ensuring that they have the necessary authority to process information entered into the application.
+
+## 13. International Data Processing
+
+Pipe Planner uses third-party technology and cloud service providers.
+
+As a result, information may be processed in countries other than the country in which the user is located.
+
+Where required by applicable law, appropriate safeguards should be used for international transfers and processing of personal information.
+
+## 14. User Responsibilities
+
+Users are responsible for the information they enter, photograph, record, or upload to Pipe Planner.
+
+Users should ensure that they have the necessary rights, permissions, and lawful basis to process personal information belonging to customers, employees, property owners, occupants, or other individuals.
+
+Users should avoid entering unnecessary sensitive or confidential information into project names, drawings, photographs, inspection notes, or other content.
+
+Particular care should be taken before submitting drawings, photographs, or sketches containing personal or confidential information to AI-assisted features.
+
+## 15. Your Privacy Rights
+
+Depending on applicable law and the user's location, individuals may have rights regarding their personal information.
+
+These rights may include the right to:
+
+- Request access to personal information
+- Request correction of inaccurate personal information
+- Request deletion of personal information
+- Request restriction of certain processing
+- Object to certain processing
+- Request a portable copy of personal information where applicable
+- Withdraw consent where processing is based on consent
+- Lodge a complaint with an applicable data protection authority
+
+The availability and scope of these rights depend on applicable law and the circumstances of the processing.
+
+Requests concerning personal information processed through Pipe Planner may be submitted using the contact information below.
+
+## 16. Children's Privacy
+
+Pipe Planner is designed as a professional planning and project-management tool and is not directed toward children.
+
+We do not knowingly design the service for the collection of personal information from children.
+
+If we become aware that personal information from a child has been processed in circumstances that violate applicable law, appropriate steps will be taken to address the matter.
+
+## 17. Deletion of Information
+
+Project and inspection information may be deleted using available functionality within Pipe Planner where such functionality is provided.
+
+Users may also contact us regarding requests to access, correct, or delete personal information, subject to applicable legal requirements and technical limitations.
+
+Locally stored application information may also be removed through applicable application functionality, by clearing application data, or by uninstalling the application, depending on the device and operating system.
+
+## 18. Changes to This Privacy Policy
+
+We may update this Privacy Policy when Pipe Planner's functionality, technology providers, data-processing practices, or legal requirements change.
+
+When the Privacy Policy is updated, the "Last updated" date at the beginning of this document will be revised.
+
+Users are encouraged to review this Privacy Policy periodically.
+
+## 19. Contact
+
+If you have questions about this Privacy Policy, Pipe Planner's handling of information, or wish to exercise applicable privacy rights, please contact:
+
+**Pipe Planner**  
+**Almvik Studio**
+
+Email: almvik.brannvern@gmailcom
+
+---
+
+**Last updated: August 9, 2026**
